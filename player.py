@@ -38,7 +38,7 @@ class RandomComputerPlayer(Player):
         return square
 
 
-class SmartComputerPlayer(Player):
+class AIComputerPlayer(Player):
     def __init__(self, letter):
         super().__init__(letter)
 
