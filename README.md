@@ -1,2 +1,2 @@
 # Tic Tac Toe
-using MinMax algorithm
+using Mini-Max algorithm
